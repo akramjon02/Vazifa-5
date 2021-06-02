@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 40px;
+    background-color: #1877CD;
+    /* user-select: none; */
+}
+
+.page {
+    margin: 0 auto;
+    width: 490px;
+    height: 540px;
+    background-color: #26262d ;
+    padding-left: 25px;
+    padding-top: 40px;
+}
+
+.login-paragraph {
+    font-size: 40.57pt;
+    font-family: sans-serif;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 40px;
+}
+
+.login-label {
+    outline: none;
+    display: block;
+    font-size: 14pt;
+    font-family: Tahoma;
+    color: #ffffff;
+    margin-bottom: 25px;
+}
+
+.login-input {
+    outline: none;
+    font-size: 14pt;
+    font-family: sans-serif;
+    margin-bottom: 25px;
+    /* color: white; */
+    width: 442px;
+    height: 43px;
+}
+
+.button-ok {
+    outline: none;
+    width: 442px;
+    /* height: 43px; */
+    color: #fff;
+    text-align: center;
+    font-size: 10pt; 
+    background-color: #f50057;
+}
+.button-ok:hover {
+    outline: none;
+    width: 442px;
+    height: 50px;
+    color: #f50057;
+    text-align: center;
+    font-size: 10pt; 
+    background-color: #fff;
+}
+.button-ok:active {
+    outline: none;
+    width: 442px;
+    height: 50px;
+    color: #fff;
+    text-align: center;
+    font-size: 10pt; 
+    background-color: #f50057;
+}
+
+#parol {
+    margin-bottom: 48px;
+    /* height: 50px; */
+}
+
+.button-ok {
+    width: 442px;
+    height: 50px;
+    margin-bottom: 40px;
+}
+
+#check {
+    /* border-bottom: 40px solid white; */
+}
+
+.remember span{
+    /* display: block; */
+    color: white;
+    font-size: 16pt;  
+}
+
+.remember a{
+    /* display: block; */
+    font-size: 16pt;
+    color: #ff9800;
+    padding-left: 150px;
+    padding-bottom:0;
+}
+
+.remember {
+    display: block;
+    /* border: 1px solid green; */
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
